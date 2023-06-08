@@ -5,6 +5,7 @@ import java.net.Socket;
 import java.util.Scanner;
 
 /**
+ * 你好吼吼吼吼吼吼吼吼吼吼吼吼吼吼吼吼test
  * 聊天室的ip地址
  * 39.106.106.39
  * @author Tan

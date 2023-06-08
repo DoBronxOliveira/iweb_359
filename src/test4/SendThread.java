@@ -26,6 +26,7 @@ public class SendThread extends Thread {
             while (true) {
                 dos.writeUTF(sc.nextLine());
             }
+            //测试测试这行随便打的请忽略
         } catch (IOException e) {
             e.printStackTrace();
         }
